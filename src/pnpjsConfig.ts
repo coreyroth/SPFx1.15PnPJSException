@@ -18,6 +18,7 @@ export const getSP = (context?: ApplicationCustomizerContext | WebPartContext): 
             store: 'session'
         }));
         console.log('SP! -', _sp);
+        console.log('Web - ', _sp.web);
     }
     return _sp;
 };
