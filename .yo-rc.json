@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "sp-fx-1-15-application-customizer-pn-pjs",
+    "libraryId": "67ba9a32-3ee4-4622-9f18-3de0721dde0e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SPFx1-15-Application-Customizer-PnPJS",
+    "solutionShortDescription": "SPFx1-15-Application-Customizer-PnPJS description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
